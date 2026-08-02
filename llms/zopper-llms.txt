@@ -1,0 +1,13 @@
+# Zopper
+> Insurance + Technology Platform    
+Zopper combines insurance and technology to deliver customised, end-to-end solutions for its partners.
+
+## Company Overview
+- [Website](https://www.zopper.com/): Zopper collaborates with leading insurance providers to build APIs that simplify distribution, improve accessibility, and strengthen the insurance ecosystem.
+
+## Resources
+- [About Zopper](https://www.zopper.com/about): Learn more about Zopper’s vision and platform.
+- [Solutions](https://www.zopper.com/solutions): Overview of Zopper’s full-stack insurance technology offerings.
+- [Contact](https://www.zopper.com/contact): Get in touch for partnerships or product inquiries.
+
+    

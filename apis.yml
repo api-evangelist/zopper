@@ -1,8 +1,25 @@
 aid: zopper
 name: Zopper
-description: 'Zopper is a company surfaced as a portfolio company of bessemer-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Zopper is an Indian insurtech platform that combines insurance and technology
+  to deliver end-to-end, embedded insurance distribution for its partners. It builds APIs
+  that let banks, consumer-electronics brands, retailers, e-commerce, travel and fintech
+  platforms embed insurance into their customer journeys, and it manages policy issuance,
+  servicing, claims and compliance across consumer-durables protection, life, health,
+  bancassurance and embedded insurance. Zopper serves 2,500+ brands including Bank of
+  Baroda, Axis Bank, IDFC First Bank, Apple, Samsung, Croma and Vijay Sales, and is backed
+  by Bessemer Venture Partners.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/68872e0a0007bdc0d6dd90a7/68998e713567a52779433d0f_Webclip.png
 url: https://raw.githubusercontent.com/api-evangelist/zopper/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Fintech
+- Insurance
+- Insurtech
+- Embedded Insurance
+- Bancassurance
+- Insurance Distribution
+- India
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.zopper.com/
+- type: About
+  url: https://www.zopper.com/about-us
+- type: Blog
+  url: https://www.zopper.com/blog
+- type: Support
+  url: https://www.zopper.com/contact-us
+- type: TermsOfService
+  url: https://www.zopper.com/terms
+- type: PrivacyPolicy
+  url: https://www.zopper.com/privacy-policy
+- type: LLMsTxt
+  url: llms/zopper-llms.txt
+- type: DomainSecurity
+  url: security/zopper-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
