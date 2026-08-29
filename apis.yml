@@ -8,6 +8,17 @@ description: 'Zopper is an Indian insurtech platform that combines insurance and
   bancassurance and embedded insurance. Zopper serves 2,500+ brands including Bank of
   Baroda, Axis Bank, IDFC First Bank, Apple, Samsung, Croma and Vijay Sales, and is backed
   by Bessemer Venture Partners.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
